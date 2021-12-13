@@ -25,6 +25,8 @@ RECOMMENDED MODULES
 - Vulputate enim 
 - Nulla aliquet 
 - Porttitor lacus
+- something new
+- another new thing
 
 INSTALLATION
 ------------
@@ -34,6 +36,8 @@ INSTALLATION
 4. Accumsan tortor posuere ac ut consequat semper. 
 5. Id semper risus in hendrerit gravida rutrum. 
 6. Vel facilisis volutpat est velit egestas dui id.
+7. Hello
+8. Hi
 
 CONFIGURATION
 -------------
